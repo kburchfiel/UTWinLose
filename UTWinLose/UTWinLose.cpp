@@ -4,8 +4,8 @@
 int main()
 {
 
-	int texaswin = 2;
-	int ouwin = 2;
+	int texaswin;
+	int ouwin;
 	std::cout << "Did Texas win? If yes, type 1; if no, write 0 :\n";
 	std::cin >> texaswin;
 	std::cout << "Did OU win? If yes, type 1; if no, write 0 :\n";
